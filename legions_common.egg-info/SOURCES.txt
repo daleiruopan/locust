@@ -1,0 +1,6 @@
+setup.py
+legions_common.egg-info/PKG-INFO
+legions_common.egg-info/SOURCES.txt
+legions_common.egg-info/dependency_links.txt
+legions_common.egg-info/requires.txt
+legions_common.egg-info/top_level.txt
